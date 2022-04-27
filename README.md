@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/MartyZane/1f676445-af0d-4b3c-ad0b-92430b40e1e3/58cc6551-7525-4343-82da-8bea9e2b9376/_apis/work/boardbadge/70c31e59-f3d5-48cc-876c-2cd2e1463557)](https://dev.azure.com/MartyZane/1f676445-af0d-4b3c-ad0b-92430b40e1e3/_boards/board/t/58cc6551-7525-4343-82da-8bea9e2b9376/Microsoft.RequirementCategory)
 # MZ.SayHello
